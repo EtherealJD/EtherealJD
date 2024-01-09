@@ -1,7 +1,7 @@
 ### Jason Dech
 
 * Virginia Tech Computer Engineering Graduate
-* C++, C, Java, JavaScript, Python
+* Proficient in: C++, C, Java, JavaScript, Python
 * Email: [jasonmdech@gmail.com](mailto:jasonmdech@gmail.com)
 
 ### Currently working on:
